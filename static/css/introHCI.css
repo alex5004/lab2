@@ -21,6 +21,12 @@ body {
 	background: none;
 }
 
+#project1 {
+    font-variant: small-caps;
+}
+
+p{font-variant: small-caps;}
+
 .jumbotron:after {
      content:"";
      background: url("http://lorempixel.com/1140/283");
